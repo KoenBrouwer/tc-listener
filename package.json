@@ -1,0 +1,12 @@
+{
+  "name": "tc-listener",
+  "version": "1.0.0",
+  "description": "Listener for the ThingsConnected Sensor Websocket",
+  "main": "ThingsConnected.js",
+  "author": "Koen Brouwer",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "request": "^2.81.0",
+    "ws": "^3.2.0"
+  }
+}
